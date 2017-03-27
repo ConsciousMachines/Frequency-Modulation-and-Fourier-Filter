@@ -17,3 +17,5 @@ Example 2: 300 Hz
 ![alt tag](https://github.com/ConsciousMachines/Frequency-Modulation-and-Fourier-Filter/blob/master/ex2.png)
 
 There is a lot of fun to be had with this tool especially for DSP enthusiasts. 
+
+And, of course, the best part is adding envelopes / ramps to the operators. 
